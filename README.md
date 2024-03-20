@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, guys Rushikesh Shigwan</h1>
 <h3 align="center">curious about data</h3>
-<img align="right"  width="400" src="https://medium.com/@learnwithwhiteboard_digest/7-stages-of-a-data-science-project-life-cycle-explained-9b4d4430c58d">
+<img align="right"  width="400" src="[https://medium.com/@learnwithwhiteboard_digest/7-stages-of-a-data-science-project-life-cycle-explained-9b4d4430c58d](https://datasciencedojo.com/wp-content/uploads/data-science-life-cycle-2.gif)">
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=rushikeshshigwan2000&label=Profile%20views&color=0e75b6&style=flat" alt="rushikeshshigwan2000" /> </p>
@@ -19,8 +19,8 @@
 
 - ⚡ Fun fact **I am deep observer in life**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/rushikeshshigwa1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/rushikeshshigwa1" height="30" width="40" /></a>
 </p>
 
