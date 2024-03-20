@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, guys Rushikesh Shigwan</h1>
+<h1 align="center">Hi 👋, I am  Rushikesh Shigwan</h1>
 <h3 align="center">curious about data</h3>
 <img align="center" alt="" src="https://miro.medium.com/v2/resize:fit:1400/format:webp/0*tD5kEC2JYcKHH0zO.gif"/> 
 
