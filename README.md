@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, guys Rushikesh Shigwan</h1>
 <h3 align="center">curious about data</h3>
-<img align="center" alt="" src="https://miro.medium.com/v2/resize:fit:1400/format:webp/0*tD5kEC2JYcKHH0zO.gif"/> <img align="center" width="80" height="80"alt=""src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*ei_Ce5ZqUHkhF9N1oku3Hg.gif"/>
+<img align="center" alt="" src="https://miro.medium.com/v2/resize:fit:1400/format:webp/0*tD5kEC2JYcKHH0zO.gif"/> 
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=rushikeshshigwan2000&label=Profile%20views&color=0e75b6&style=flat" alt="rushikeshshigwan2000" /> </p>
