@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, guys Rushikesh Shigwan</h1>
 <h3 align="center">curious about data</h3>
-<img align="right"  width="400" src="[https://medium.com/@learnwithwhiteboard_digest/7-stages-of-a-data-science-project-life-cycle-explained-9b4d4430c58d](https://datasciencedojo.com/wp-content/uploads/data-science-life-cycle-2.gif)">
+<img align="right"  width="400" src="https://datasciencedojo.com/wp-content/uploads/data-science-life-cycle-2.gif">
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=rushikeshshigwan2000&label=Profile%20views&color=0e75b6&style=flat" alt="rushikeshshigwan2000" /> </p>
